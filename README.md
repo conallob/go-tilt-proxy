@@ -8,5 +8,5 @@ Unlike a pre-made Raspberry Pi SD Card image such as [TiltPi](https://github.com
 ## Features
 
 * Cloud Endpoints:
-   * [Brewfather](http://www.brewfather.app
+   * [Brewfather](http://www.brewfather.app)
    * Custom Endpoints
