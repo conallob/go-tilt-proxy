@@ -10,7 +10,7 @@ import (
 )
 
 
-// TODO(conall): Convert http_client and request out of the loops using pointers
+// TODO(conall): Move http_client and request out of the loops, use pointers 
 
 // TODO(conall): Convert json_payload into a struct and allocate one struct per tilt
 
