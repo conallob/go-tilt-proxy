@@ -52,6 +52,7 @@ func main() {
           }
 
 	  time.Sleep(15 * time.Minute)
+	  sensors.Scan(5 * time.Second)  // Scan again
 
         }
 }
